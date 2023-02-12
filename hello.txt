@@ -1,5 +1,5 @@
 Hello geogre! hello git! master merge test
-Hello geogre! hello git!
+Hello geogre! hello git! hot-fix test
 Hello geogre! hello git!
 Hello geogre! hello git! abcd
 Hello geogre! hello git! ABCD
